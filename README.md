@@ -9,6 +9,12 @@ renga
 
 Annonymous, collaborative, distributed, hypertext poetry.
 
+## Initial concept sketch
+
+Sketch of 3 iterations of the intial concept by Luke Bacon (@equivalentideas) 2014-08-16:
+
+![Initial skepch by Luke Bacon of the concept for this repo](https://raw.githubusercontent.com/equivalentideas/renga/master/2014-08-16%2016.28.01%20renga%20sketch.jpg)
+
 ## References
 
 * [Improvisations and limitations, by @fchimero](http://read.shapeofdesignbook.com/chapter03.html)
